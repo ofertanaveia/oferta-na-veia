@@ -12,7 +12,7 @@ AMAZON_TAG = "limacaioprado-20"
 SHOPEE_ID = "lima.caioprado"
 ML_ETIQUETA = "aehgdcfab53186"
 INTERVALO_MINUTOS = 15
-MAX_OFERTAS_POR_CICLO = 3
+MAX_OFERTAS_POR_CICLO = 5
 HISTORICO_FILE = "historico.json"
 
 HEADERS = {
